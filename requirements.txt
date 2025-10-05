@@ -1,0 +1,6 @@
+# requirements.txt
+openai
+python-dotenv
+pandas
+streamlit
+flake8
